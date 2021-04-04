@@ -1,4 +1,4 @@
-##Link of the project hosted on firebase:
+## Link of the project hosted on firebase:
 https://netflix-clone-163f1.web.app/
 
 # Getting Started with Create React App
